@@ -1,0 +1,33 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "CyberSecCats"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "CC BY-SA 4.0"
+
+ [author]
+   name = "Darin/Oakleafknight06"
+   image = "img/leafCatFromBing.jpg"
+   headline = "I'm only human"
+   bio = "A little bit about _me_"
+   links = [
+#     { email = "mailto:hello@your_domain.com" },
+#     { discord = "https://discord.gg/invitecode" },
+     { github = "https://github.com/oakleafknight06" },
+#     { gitlab = "https://gitlab.com/username" },
+#     { instagram = "https://instagram.com/username" },
+#     { mastodon = "https://mastodon.instance/@username" },
+#     { soundcloud = "https://soundcloud.com/username" },
+#     { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+#     { steam = "https://steamcommunity.com/profiles/userid" },
+#     { youtube = "https://youtube.com/username" },
+#     { ko-fi = "https://ko-fi.com/username" },
+   ]
