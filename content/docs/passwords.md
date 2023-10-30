@@ -1,7 +1,7 @@
 ---
 title: "Passwords"
 date: 2023-10-19T20:21:07+08:00
-draft: true
+draft: false
 ---
 
 # Passwords, Passphrases, Strength of passwords, etc.
